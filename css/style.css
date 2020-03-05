@@ -1,0 +1,27 @@
+html {
+    font-family: "微软雅黑"
+}
+
+#header {
+    border: 5px solid rgb(190, 61, 10);
+    margin: 3px;
+}
+
+#help {
+    border: 5px solid rgb(11, 223, 238);
+    margin: 3px;
+}
+
+#main {
+    border: 5px solid rgb(11, 223, 238);
+    margin: 3px;
+    height: 6cm;
+}
+
+.app {
+    border: 3px solid rgb(17, 233, 63);
+    text-align: center;
+    width: 49%;
+    margin: 3px;
+    float: left;
+}
