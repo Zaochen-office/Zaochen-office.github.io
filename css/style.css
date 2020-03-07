@@ -15,7 +15,7 @@ html {
 #main {
     border: 5px solid rgb(11, 223, 238);
     margin: 3px;
-    height: 6cm;
+    height: 16cm;
 }
 
 .app {
@@ -24,4 +24,10 @@ html {
     width: 49%;
     margin: 3px;
     float: left;
+    height: 5cm;
+}
+
+h1,
+h2 {
+    text-align: center;
 }
